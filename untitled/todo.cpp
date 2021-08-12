@@ -358,7 +358,7 @@ switch(x)
 cout<<"Do you want to continue(y/n)?";
 cin>>ans1;
 }while(ans1=='y');
-
+email = user.email
 }
 
 
